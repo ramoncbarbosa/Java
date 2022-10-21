@@ -1,6 +1,6 @@
 package Direct000;
 
-public class My002Funcoes {
+public class My000Funcoes {
     public static void main(String[] args) {
        //a função criada logo a baixo.
         // ela que vai dizer os valores de X e Y
