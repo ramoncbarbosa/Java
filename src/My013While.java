@@ -1,5 +1,3 @@
-package pac1;
-
 public class My013While {
     public static void main(String[] args) {
         int camb = 0;

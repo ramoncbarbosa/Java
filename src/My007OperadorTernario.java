@@ -1,5 +1,3 @@
-package pac1;
-
 import javax.sound.sampled.SourceDataLine;
 
 public class My007OperadorTernario {

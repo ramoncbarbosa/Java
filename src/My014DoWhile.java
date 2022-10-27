@@ -1,5 +1,3 @@
-package pac1;
-
 public class My014DoWhile {
     public static void main(String[] args){
         int i = 0;

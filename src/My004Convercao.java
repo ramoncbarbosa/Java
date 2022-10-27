@@ -1,5 +1,3 @@
-package pac1;
-
 public class My004Convercao {
     public static void main(String[] args){
         //conversão de tipos: int > String

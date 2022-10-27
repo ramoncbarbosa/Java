@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class My000 {
+public class My000 {
 }

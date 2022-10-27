@@ -1,5 +1,3 @@
-package pac1;
-
 public class My006MathAritmetica {
     public static void main(String[] args){
         float valorReal = 8.3f;

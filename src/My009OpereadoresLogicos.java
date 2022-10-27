@@ -1,5 +1,3 @@
-package pac1;
-
 import javax.annotation.processing.SupportedSourceVersion;
 
 public class My009OpereadoresLogicos {

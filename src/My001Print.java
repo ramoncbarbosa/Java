@@ -1,5 +1,3 @@
-package src;
-
 public class My001Print {
     public static void main(String[] args){
         System.out.println("Exibição de mensagem");

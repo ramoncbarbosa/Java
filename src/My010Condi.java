@@ -1,5 +1,3 @@
-package pac1;
-
 import java.util.Scanner;
 
 public class My010Condi {

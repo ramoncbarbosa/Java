@@ -1,5 +1,3 @@
-package pac1;
-
 public class My008OperaorRelacional {
     public static void main(String[] args){
         String nome1 = "Ramon";

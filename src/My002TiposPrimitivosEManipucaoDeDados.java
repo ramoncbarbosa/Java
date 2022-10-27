@@ -1,5 +1,3 @@
-package pac1;
-
 public class My002TiposPrimitivosEManipucaoDeDados {
     public static void main(String[] args){
         //DECLARAÇÕES:

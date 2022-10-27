@@ -1,5 +1,3 @@
-package pac1;
-
 public class My005OperadoresAritmeticos {
     public static void main(String[] args){
         //somando as notas e dividindo para ter a nota

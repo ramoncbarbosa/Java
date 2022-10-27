@@ -1,4 +1,3 @@
-package pac1;
 //o java não vem com método de entrada, então precisamos importar a biblioteca scanner
 import java.util.Scanner;
 public class My003EntradaDeDados {
